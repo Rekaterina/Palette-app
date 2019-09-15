@@ -1,1 +1,1 @@
-# Palette-app
+[https://Rekaterina.github.io/Palette-app](https://Rekaterina.github.io/Palette-app)
